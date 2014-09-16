@@ -1,2 +1,2 @@
-ISB_Ace_OSX
-===========
+
+ISB Ace app for OSX. 
